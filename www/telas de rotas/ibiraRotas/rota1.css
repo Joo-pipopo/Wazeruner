@@ -1,0 +1,82 @@
+/* GERAL */
+body{
+    margin: 0 auto;
+    width: 100%;  
+}
+/*////GERAL////*/
+
+/* IMAGENS */
+img.voltar{
+    width: 7%;
+    float: left;
+    margin-top: 6%;
+    margin-left: 5%;
+}
+
+/*////IMAGENS////*/
+
+/* BOTÕES */
+input#local{
+    margin-top: 5%;
+    margin-left: 5%;
+    float: left;
+}
+
+input#desafio{
+    margin-top: 5%;
+    margin-right: 5%;
+    float: right;
+}
+
+input#concluir{
+    margin-top: 73vh;
+}
+/*////BOTÕES////*/
+
+/* TEXTOS E LINKS*/
+p.title{
+   font-size: 42pt;
+   font-family: 'Zen Kaku Gothic New', sans-serif;
+   font-family: 'Zen Kurenaido', sans-serif;
+   font-weight: bolder;
+}
+
+p.subtitle{
+    font-size: 25pt;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+    font-family: 'Zen Kurenaido', sans-serif;
+    font-weight: bolder;
+}
+
+p.distancia{
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+    font-family: 'Zen Kurenaido', sans-serif;
+    font-weight: bold;
+}
+/*////TEXTOS E LINKS////*/
+
+/* DIVS */
+div.imagem-cima {
+    height: 11vh;
+    width: 100%;
+    background: #0ca789 url("../img/partecima.png") no-repeat top center;
+    position: fixed;
+}
+
+div.imagem-meio {
+    margin-top: 20%;
+    margin-bottom: 80px;
+    height: 90vh;
+    width: 100%;
+    position: fixed;
+    background: #ccc url("../img/mapatemplate.jpg") no-repeat top center;
+}
+
+div.imagem-baixo {
+    bottom: 0;
+    height: 11vh;
+    width: 100%;
+    background: #0ca789 url("../img/partebaixo.png") no-repeat top center;
+    position: fixed;
+}
+/*////DIVS////*/
