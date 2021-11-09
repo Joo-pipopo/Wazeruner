@@ -10,16 +10,20 @@ body{
 
 /* BOTÕES */
 select.form-select{
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+    font-family: 'Zen Kurenaido', sans-serif;
     width: 70vw;
     height: 5vh;
     margin-top: 50%;
     margin-left: 0%;
+    font-size: 30pt;
 }
 option.opcoes{
     font-family: 'Zen Kaku Gothic New', sans-serif;
     font-family: 'Zen Kurenaido', sans-serif;
     text-align: center;
     font-weight: bolder;
+    font-size: medium;
 }
 /*////BOTÕES////*/
 

@@ -23,7 +23,6 @@ input#local{
     float: left;
     width: 40%;
     height: 5%;
-    font-weight: bolder;
 }
 
 input#desafio{
@@ -33,7 +32,6 @@ input#desafio{
     float: right;
     width: 40%;
     height: 5%;
-    font-weight: bolder;
 }
 
 input#concluir{
@@ -41,7 +39,6 @@ input#concluir{
     margin-top: 63vh;
     width: 40%;
     height: 5%;
-    font-weight: bolder;
 }
 /*////BOTÕES////*/
 
