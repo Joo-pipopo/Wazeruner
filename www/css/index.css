@@ -12,7 +12,7 @@ img#logo{
     margin-right: auto;
     margin-top: 15%;
     margin-bottom: 25%;
-    width: 60%;
+    width: 40%;
 }
 /*////IMAGENS////*/
 /*------------------------------------------------------------------------------------------------------------*/
@@ -20,7 +20,7 @@ img#logo{
 button#btnLogar{
     margin: 0 auto;
     width: 80%;
-    height: 8vh;
+    height: 5vh;
     font-size: 30pt;
 }
 
@@ -47,7 +47,7 @@ a:hover{
 
 input.form-control{
     width: 80%;
-    height: 8vh;
+    height: 5vh;
     font-size: 30pt;
 }
 /*////TEXTOS E LINKS////*/

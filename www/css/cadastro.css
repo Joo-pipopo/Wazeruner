@@ -12,9 +12,9 @@ img#cores{
     margin-right: 5%;
 }
 img#logo{
-    margin-top: 20%;
-    margin-bottom: 10%;
-    width: 80%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 60%;
 }
 img#perso {
     display: block;
@@ -23,39 +23,41 @@ img#perso {
 }
 img#voltar{
     float: left;
-    margin-left: 5%;
+    margin-left: 15%;
     width: 7%;
 }
 /*////IMAGENS////*/
 
 /* BOTÕES */
 button#btnInserir{
-    width: 80%;
+    width: 70%;
     height: 8vh;
     font-size: 30pt;
-    margin-bottom: 15%;
+    margin-bottom: 5%;
 }
 /*////BOTÕES E LINKS////*/
 
 /* CHECK BOX E PA */
 #flexCheckDefault{
-    -ms-transform: scale(3); /* IE */
-    -moz-transform: scale(3); /* FF */
-    -webkit-transform: scale(3); /* Safari and Chrome */
-    -o-transform: scale(3); /* Opera */
-    transform: scale(3);
+    -ms-transform: scale(2); /* IE */
+    -moz-transform: scale(2); /* FF */
+    -webkit-transform: scale(2); /* Safari and Chrome */
+    -o-transform: scale(2); /* Opera */
+    transform: scale();
     padding: 2%;
 }
 .form-check-label{
-    font-size: 30pt;
-    margin-left: 5%;
+    font-size: 20pt;
+    margin-left: 2%;
+    margin-bottom: 5%;
 }
 /*////CHECK BOX E PA////*/
 
 /* TEXTO E LINKS */
 input.form-control{
-    width: 80%;
+    width: 70%;
     height: 8vh;
     font-size: 30pt;
+    margin-bottom: 5%;
 }
 /*////TEXTO E LINKS////*/
