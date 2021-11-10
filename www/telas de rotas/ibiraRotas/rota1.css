@@ -17,7 +17,7 @@ img.voltar{
 
 /* BOTÕES */
 input#local{
-    font-size: 20pt;
+    font-size: 15pt;
     margin-top: 5%;
     margin-left: 5%;
     float: left;
@@ -27,7 +27,7 @@ input#local{
 }
 
 input#desafio{
-    font-size: 20pt;
+    font-size: 15pt;
     margin-top: 5%;
     margin-right: 5%;
     float: right;
@@ -37,7 +37,7 @@ input#desafio{
 }
 
 input#concluir{
-    font-size: 20pt;
+    font-size: 15pt;
     margin-top: 63vh;
     width: 40%;
     height: 5%;
