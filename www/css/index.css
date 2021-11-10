@@ -12,7 +12,7 @@ img#logo{
     margin-right: auto;
     margin-top: 15%;
     margin-bottom: 25%;
-    width: 70%;
+    width: 60%;
 }
 /*////IMAGENS////*/
 /*------------------------------------------------------------------------------------------------------------*/
@@ -20,8 +20,8 @@ img#logo{
 button#btnLogar{
     margin: 0 auto;
     width: 80%;
-    height: 10vh;
-    font-size: 40pt;
+    height: 8vh;
+    font-size: 30pt;
 }
 
 /*////BOTÕES////*/
@@ -37,7 +37,7 @@ a {
     color: black;
     text-decoration: underline;
     text-align: center;
-    font-size: 40pt;
+    font-size: 30pt;
 }
 
 a:hover{
@@ -47,8 +47,8 @@ a:hover{
 
 input.form-control{
     width: 80%;
-    height: 10vh;
-    font-size: 40pt;
+    height: 8vh;
+    font-size: 30pt;
 }
 /*////TEXTOS E LINKS////*/
 /*------------------------------------------------------------------------------------------------------------*/

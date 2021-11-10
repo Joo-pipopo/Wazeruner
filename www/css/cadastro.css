@@ -31,8 +31,8 @@ img#voltar{
 /* BOTÕES */
 button#btnInserir{
     width: 80%;
-    height: 10vh;
-    font-size: 40pt;
+    height: 8vh;
+    font-size: 30pt;
     margin-bottom: 15%;
 }
 /*////BOTÕES E LINKS////*/
@@ -55,7 +55,7 @@ button#btnInserir{
 /* TEXTO E LINKS */
 input.form-control{
     width: 80%;
-    height: 10vh;
-    font-size: 40pt;
+    height: 8vh;
+    font-size: 30pt;
 }
 /*////TEXTO E LINKS////*/
